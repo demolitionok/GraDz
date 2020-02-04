@@ -1,0 +1,7 @@
+F:\noHacker\C#\GraDz\GraDz\bin\Debug\GraDz.exe.config
+F:\noHacker\C#\GraDz\GraDz\bin\Debug\GraDz.exe
+F:\noHacker\C#\GraDz\GraDz\bin\Debug\GraDz.pdb
+F:\noHacker\C#\GraDz\GraDz\obj\Debug\GraDz.csprojAssemblyReference.cache
+F:\noHacker\C#\GraDz\GraDz\obj\Debug\GraDz.csproj.CoreCompileInputs.cache
+F:\noHacker\C#\GraDz\GraDz\obj\Debug\GraDz.exe
+F:\noHacker\C#\GraDz\GraDz\obj\Debug\GraDz.pdb
